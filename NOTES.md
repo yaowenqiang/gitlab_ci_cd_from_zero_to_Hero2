@@ -5,4 +5,13 @@ DAST - Dynamic application security testing
 
 job templates
 
+development -> staging -> production
+
+stages
+
++ test
++ build
++ deploy_dev
++ deploy_staging
++ deploy_prod
 
